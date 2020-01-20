@@ -1,1 +1,1 @@
-# -WxSmallProgram
+# WxSmallProgram
